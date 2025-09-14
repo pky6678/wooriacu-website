@@ -1,11 +1,19 @@
-## **Acne Treatment: Addressing the Root Cause**
+---
+layout: "ConditionLayout"
+title: "Acne Treatment"
+description: "Natural menopause treatment through traditional Korean acupuncture and herbal medicine. Effective relief for hot flashes, mood swings, sleep issues, and other menopause symptoms in Riverside, CA."
+icon: "🌟"
+locale: "en"
+---
+
+# Acne Treatment: Addressing the Root Cause
 
 Acne is not just a surface skin issue—it is closely linked to **internal balance and lifestyle habits**.  
  Without addressing the underlying causes, acne may return even after treatment.
 
 In **Traditional Korean Medicine (TKM)**, acne causes are broadly classified as **internal factors** and **external factors**.
 
-### **1\. Constitutional Factors**
+## 1. Constitutional Factors**
 
 Everyone has a unique constitution, so acne may appear differently in each person.
 
@@ -14,7 +22,7 @@ Everyone has a unique constitution, so acne may appear differently in each perso
 * **Those with weakness or cold tendencies**: Acne may become chronic, and scars or pigmentation may occur.  
    👉 Adjusting diet and lifestyle according to your constitution is key to effective treatment and prevention.
 
-### **2\. Diet and Nutrition**
+## 2. Diet and Nutrition**
 
 Overeating, unbalanced meals, and consuming processed or highly spicy foods can increase sebum production and worsen inflammation. Nutritional deficiencies slow skin recovery, potentially leading to scarring and discoloration.
 
@@ -34,16 +42,16 @@ Overeating, unbalanced meals, and consuming processed or highly spicy foods can 
 
 👉 A balanced diet with fresh vegetables, fruits, whole grains, and lean proteins is essential for acne prevention and overall skin health.
 
-### **3\. Seasonal and Environmental Factors**
+## 3. Seasonal and Environmental Factors**
 
 Weather changes, humidity, polluted air, and harsh skin care routines can all aggravate acne.
 
-### **4\. Stress and Fatigue**
+## 4. Stress and Fatigue**
 
 Stress, lack of sleep, and overwork disrupt the circulation of qi and blood, increasing facial heat and sebum production, which can trigger acne.  
  👉 Adequate rest and stress management are essential.
 
-### **5\. Medication, Infection, and External Damage**
+## 5. Medication, Infection, and External Damage**
 
 Overuse of antibiotics or steroids, bacterial or fungal infections, and repeated picking or irritation can all contribute to chronic acne.
 
